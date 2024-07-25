@@ -1,7 +1,6 @@
 ## 👋 Hello world, I'm Naeem.
 Python Developer | AI Enthusiast | CS Student @ University of Ghana
 
-## Languages and Tools:
 
 <!-- Add more icons for your skills -->
 
