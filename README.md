@@ -32,18 +32,18 @@ AI & Machine Learning basics
 
 🔭 Current Focus
 
-Building robust web applications with Django and Flask
+-Building robust web applications with Django and Flask
 
-Integrating AI and LLMs into practical projects
+-Integrating AI and LLMs into practical projects
 
-Mastering the art of clean, efficient code
+-Mastering the art of clean, efficient code
 
 
 📚 Learning Journey
 
-🏫 Computer Science at University of Ghana 
+-Computer Science at University of Ghana 
 
-📊 Side courses in advanced web development and AI applications
+-Side courses in advanced web development and AI applications
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)
 
