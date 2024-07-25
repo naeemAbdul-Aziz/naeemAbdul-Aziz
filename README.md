@@ -25,13 +25,16 @@ AI & Machine Learning basics
 
 🔭 Current Focus
 
-Building robust web applications with Django and Flask.
+Building robust web applications with Django and Flask
+
 Integrating AI and LLMs into practical projects.
+
 Mastering the art of clean, efficient code.
 
 📚 Learning Journey
 
-🏫 Computer Science at University of Ghana
+🏫 Computer Science at University of Ghana 
+
 📊 Side courses in advanced web development and AI applications
 
 💡 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
