@@ -1,6 +1,7 @@
 ## 👋 Hello world, I'm Naeem.
-🐍 Python Developer | 🌐 AI Enthusiast | 🎓 CS Student @ University of Ghana
-
+Python Developer | AI Enthusiast | CS Student @ University of Ghana
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulaziz202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-abdul-aziz-3b719223a/)
 
 <!--
 **naeemAbdul-Aziz/naeemAbdul-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,9 +31,9 @@ AI & Machine Learning basics
 
 Building robust web applications with Django and Flask
 
-Integrating AI and LLMs into practical projects.
+Integrating AI and LLMs into practical projects
 
-Mastering the art of clean, efficient code.
+Mastering the art of clean, efficient code
 
 
 📚 Learning Journey
