@@ -2,12 +2,6 @@
 Python Developer | AI Enthusiast | CS Student @ University of Ghana
 
 ## Languages and Tools:
-![](python_icon_url)
-![JavaScript](js_icon_url)
-![Django](django_url)
-![Flask](flask_url)
-![HTML](html_url)
-![MYSQL](sql_url)
 
 <!-- Add more icons for your skills -->
 
