@@ -1,6 +1,15 @@
 ## 👋 Hello world, I'm Naeem.
 Python Developer | AI Enthusiast | CS Student @ University of Ghana
 
+## Languages and Tools:
+![Python](python_icon_url)
+![JavaScript](js_icon_url)
+![Django](django_url)
+![Flask](flask_url)
+![HTML](html_url)
+![MYSQL](sql_url)
+
+<!-- Add more icons for your skills -->
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulaziz202@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-abdul-aziz-3b719223a/)
