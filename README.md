@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 🛠️ Tech Stack
 
 Python | HTML | CSS | JavaScript
-Django | Flask
+Django | Flask |
 SQL | Version Control (Git)
 AI & Machine Learning basics
 
 🔭 Current Focus
 
-Building robust web applications with Django and Flask
-Integrating AI and LLMs into practical projects
-Mastering the art of clean, efficient code
+Building robust web applications with Django and Flask.
+Integrating AI and LLMs into practical projects.
+Mastering the art of clean, efficient code.
 
 📚 Learning Journey
 
