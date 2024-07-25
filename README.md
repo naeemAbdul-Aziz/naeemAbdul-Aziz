@@ -1,5 +1,7 @@
 ## 👋 Hello world, I'm Naeem.
 Python Developer | AI Enthusiast | CS Student @ University of Ghana
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulaziz202@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-abdul-aziz-3b719223a/)
 
