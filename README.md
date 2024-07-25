@@ -27,7 +27,8 @@ Python | HTML | CSS | JavaScript
 Django | Flask |
 SQL | Version Control (Git)
 AI & Machine Learning basics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemAbdul-Aziz&layout=compact&theme=radical)
 
 🔭 Current Focus
 
@@ -43,6 +44,8 @@ Mastering the art of clean, efficient code
 🏫 Computer Science at University of Ghana 
 
 📊 Side courses in advanced web development and AI applications
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)
 
 
 💡 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
