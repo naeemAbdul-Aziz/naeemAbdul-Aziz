@@ -27,7 +27,7 @@ Python | HTML | CSS | JavaScript
 Django | Flask |
 SQL | Version Control (Git)
 AI & Machine Learning basics
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)
 
 🔭 Current Focus
 
