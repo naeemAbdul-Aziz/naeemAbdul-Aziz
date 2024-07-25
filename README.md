@@ -30,7 +30,7 @@ Python | HTML | CSS | JavaScript
 Django | Flask |
 SQL | Version Control (Git)
 AI & Machine Learning basics
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemAbdul-Aziz&layout=compact&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemAbdul-Aziz&layout=compact&theme=radical) 
 
