@@ -48,7 +48,7 @@ AI & Machine Learning basics
 
 -Side courses in advanced web development and AI applications
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)-->
 
 
 💡 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
