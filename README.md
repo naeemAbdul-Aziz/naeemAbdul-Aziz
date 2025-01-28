@@ -44,7 +44,7 @@ AI & Machine Learning basics
 
 📚 Learning Journey
 
--Computer Science at University of Ghana 
+-Computer Science at the University of Ghana 
 
 -Side courses in advanced web development and AI applications
 
