@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 🛠️ Tech Stack
 
 
-Python | HTML | CSS | JavaScript
+Python | HTML | CSS | JavaScript |
 Django | Flask |
-SQL | Version Control (Git)
+SQL | Version Control (Git) |
 AI & Machine Learning basics
 
 
