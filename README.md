@@ -44,7 +44,7 @@ AI & Machine Learning basics
 
 -Computer Science at the University of Ghana 
 
--Side courses in advanced web development and AI applications
+-Side courses in building advanced AI applications
 
 <!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)-->
 
