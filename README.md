@@ -35,9 +35,7 @@ AI & Machine Learning basics
 
 🔭 Current Focus
 
--Building robust web applications with Django and Flask
-
--Integrating AI and LLMs into practical projects
+-AI and LLMs
 
 -Mastering the art of clean, efficient code
 
