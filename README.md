@@ -30,8 +30,8 @@ Django | Flask |
 SQL | Version Control (Git) |
 AI & Machine Learning basics
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemAbdul-Aziz&layout=compact&theme=radical) 
+<!-- GitHub stats card -->
+![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=github_dark)
 
 🔭 Current Focus
 
