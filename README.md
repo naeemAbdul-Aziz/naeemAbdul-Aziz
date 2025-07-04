@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  If I’m not writing bad code, I’m probably explaining it to an LLM or breaking prod with confidence.
+  If I’m not writing bad code, I’m probably explaining it to an LLM or breaking production with confidence.
 </p>
