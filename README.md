@@ -2,9 +2,11 @@
 
 ---
 
-## 👋 Hi, I'm Naeem Abdul-Aziz
+## 👋 Hi, I'm Naeem
 
-I'm a Python Developer, your AI/NLP guy, and Computer Science student at the University of Ghana. I build impactful software products and love exploring AI, LLMs, and the intersection of technology and law.
+🚀 Computer Science student @ University of Ghana  
+🧠 AI x Law founder building **Compli** — contract compliance tools for petroleum & tax laws  
+💡 Currently exploring AI microservices, NLP, and legal-tech in Africa  
 
 ---
 
