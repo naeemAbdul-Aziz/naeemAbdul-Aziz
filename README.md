@@ -64,5 +64,5 @@ I'm a Python Developer and Artificial Intelligence enthusiast currently pursuing
 </p>
 
 <p align="center">
-  Writes code before breakfast — Pushes code after 2 A.M — Comfortable in the Linux shell — Finds fun in AI/ML — Always learning something new!
+  Writes code once a year — Pushes bad code — Comfortable in the bash shell — Finds fun in AI/ML — Always learning something new.
 </p>
