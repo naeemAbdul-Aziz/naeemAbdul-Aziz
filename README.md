@@ -1,52 +1,68 @@
-## 👋 Hello world, I'm Naeem.
-Python Developer | AI Enthusiast | CS Student @ University of Ghana
+> "The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
 
+---
 
-<!-- Add more icons for your skills -->
+## 👋 Hi, I'm Naeem Abdul-Aziz
+I'm a Python Developer and Artificial Intelligence enthusiast currently pursuing Computer Science at the University of Ghana. I'm passionate about building impactful software, exploring AI/LLMs, and collaborating on exciting tech projects.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulaziz202@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-abdul-aziz-3b719223a/)
+---
 
-<!--
-**naeemAbdul-Aziz/naeemAbdul-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
-🚀 About Me
-- 💻 Crafting code and building the future, one line at a time. 
-- 🌱 Currenlty diving deep into Django and Data science.
-- 🔍 Exploring the world of AI and LLMs and their applications.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, LLMs and Data science.
-- 📫 How to reach me: naeemabdulaziz202@gmail.com
-- 😄 Him/He
-- ⚡ Fun fact: When I'm not coding, you'll find me at the gym!
--->
+**Languages & Frameworks:**
 
-🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**AI & Machine Learning:**
+- LLMs (Large Language Models)
+- Data Science fundamentals
 
-Python | HTML | CSS | JavaScript |
-Django | Flask |
-SQL | Version Control (Git) |
-AI & Machine Learning basics
+---
 
-<!-- GitHub stats card -->
+## 🔭 Current Focus
+
+- Deep learning and LLMs
+- Mastering the art of clean, efficient code
+- Building data-driven AI applications
+
+---
+
+## 📚 Learning Journey
+
+- BSc. Computer Science @ University of Ghana
+- Exploring advanced AI/ML
+
+---
+
+## 🚀 GitHub Stats
+
+[![Naeem's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemAbdul-Aziz&theme=dark)](https://github.com/naeemAbdul-Aziz)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naeemAbdul-Aziz&theme=dark&hide_border=true)](https://github.com/naeemAbdul-Aziz)
 ![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=github_dark)
 
-🔭 Current Focus
+---
 
--AI and LLMs
+## 🌐 Socials
 
--Mastering the art of clean, efficient code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-abdul-aziz-3b719223a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemabdulaziz202@gmail.com)
 
+---
 
-📚 Learning Journey
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Addict-F06529?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Explorer-00C7B7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal%20Warrior-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control%20Pro-181717?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
--Computer Science at the University of Ghana 
-
--Side courses in building advanced AI applications
-
-<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemAbdul-Aziz&show_icons=true&theme=radical)-->
-
-
-💡 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+<p align="center">
+  Writes code before breakfast — Pushes code after 2 A.M — Comfortable in the Linux shell — Finds fun in AI/ML — Always learning something new!
+</p>
