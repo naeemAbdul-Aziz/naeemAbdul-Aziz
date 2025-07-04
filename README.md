@@ -1,11 +1,11 @@
-> "The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
+> My code doesn’t always run, but when it does, I don’t know why.
 
 ---
 
 ## 👋 Hi, I'm Naeem
 
 🚀 Computer Science student @ University of Ghana  
-🧠 AI x Law founder building **Compli** — contract compliance tools for petroleum & tax laws  
+🧠 AI x Law founder building **CompliMate** — contract compliance tool for petroleum companies in Ghana
 💡 Currently exploring AI microservices, NLP, and legal-tech in Africa  
 
 ---
@@ -42,7 +42,7 @@
 
 ## 💼 Projects I'm Building
 
-🔍 **CompliMate** — AI-powered contract compliance platform for Ghana's petroleum sector
+🔍 **CompliMate** —  Tells lawyers if their contracts suck🫡
 
 ---
 
@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  Writes code once a year — Pushes bad code twice a year — Comfortable in the bash shell — Finds fun in AI/ML -  Always learning something new.
+  If I’m not writing bad code, I’m probably explaining it to an LLM or breaking prod with confidence.
 </p>
