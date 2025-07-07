@@ -5,8 +5,8 @@
 ## 👋 Hi, I'm Naeem
 
 🚀 Computer Science student @ University of Ghana  
-🧠 AI x Law founder building **CompliMate** — contract compliance tool for petroleum companies in Ghana
 💡 Currently exploring AI microservices, NLP, and legal-tech in Africa  
+🧠 Building **CompliMate** — contract compliance tool for petroleum companies in Ghana. more info at complighana.com
 
 ---
 
@@ -37,12 +37,6 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 💼 Projects I'm Building
-
-🔍 **CompliMate** —  Tells lawyers if their contracts suck🫡
 
 ---
 
