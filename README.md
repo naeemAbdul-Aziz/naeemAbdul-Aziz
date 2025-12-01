@@ -1,12 +1,12 @@
-> My code doesn’t always run, but when it does, I don’t know why.
+> my code doesn’t always run, but when it does, I don’t know why.
 
 ---
 
-## 👋 Hi, I'm Naeem
+## 👋 hi, I'm Naeem
 
-🚀 Computer Science student @ University of Ghana  
-💡 Currently exploring AI microservices, NLP, and legal-tech in Africa  
-🧠 Building **CompliMate** — contract compliance tool for petroleum companies in Ghana. more info at complighana.com
+- computer science student at the University of Ghana  
+- currently exploring AI microservices, NLP, and legal-tech in Africa  
+- building **CompliMate** — contract compliance tool for petroleum companies in Ghana. more info at complighana.com
 
 ---
 
